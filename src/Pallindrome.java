@@ -1,6 +1,6 @@
 public class Pallindrome {
 	public static void main(String[] args) {
-		System.out.println(isPallindrome("zoz"));
+		System.out.println(isPallindrome("cttttttttc"));
 	}
 
 	public static String reverse(String s) {
